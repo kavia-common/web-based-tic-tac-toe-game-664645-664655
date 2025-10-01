@@ -1,5 +1,5 @@
 {
-  "name": "react-kavia",
+  "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,6 +29,9 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
     "cross-env": "^7.0.3"
   }
 }
